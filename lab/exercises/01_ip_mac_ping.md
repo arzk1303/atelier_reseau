@@ -65,7 +65,8 @@ ip route
 
 > 💬 **Votre réponse :**
 >
-> _Remplacez ce texte par votre réponse._
+> l'adresse de la passerelle du client est 172.20.1.254.
+> Elle correspond au NAT qui joue le rôle de routeur (gateway) dans le lab.
 
 ---
 
