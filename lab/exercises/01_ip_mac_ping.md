@@ -46,7 +46,7 @@ sur la ligne `inet` se trouvent l'**adresse IP** et le **masque** (après le `/`
 
 > 💬 **Votre réponse :**
 >
-> _Remplacez ce texte par votre réponse._
+> 254 ( de 1 à 254 )
 
 ### Étape 2 — Ma passerelle
 
